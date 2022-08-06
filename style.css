@@ -1,0 +1,62 @@
+.first{
+    background-color: rgb(253, 252, 252);
+}
+.navbar{
+    background-color: rgb(253, 252, 252);
+}
+.card{
+    background-color: rgb(253, 252, 252);
+}
+.key{
+    position: relative;
+    left: 30px;
+    border: none;
+}
+.key2{
+    border: none;
+}
+.male{
+    left: 0px;
+    color: rgb(252, 250, 250);
+}
+.ipbody::before{
+    background-color: rgb(252, 250, 250);
+    display: block;
+    content: "";
+    height: 80px;
+    
+}
+.lady{
+    background-color: rgb(252, 250, 250);
+}
+.btn1{
+    border: 2px solid rgb(172, 5, 5) !important;  
+}
+
+.btn1:hover{
+    background-color: white;
+    color: rgb(172, 5, 5);
+    border: 2px solid rgb(172, 5, 5) !important;  
+}
+.curve{
+    border-radius: 20px;
+}
+.curve1{
+    position: relative;
+    left:100px;
+}
+.team{
+    border: 2px solid white;
+
+}
+.dot{
+    position:relative;
+    right:60px;
+}
+.section6{
+    background-color: rgb(252, 246, 246)
+}
+.team1{
+    position: relative;
+    right: 30px;
+}
