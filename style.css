@@ -7,6 +7,12 @@
 .card{
     background-color: rgb(253, 252, 252);
 }
+.face{
+    position: relative;
+    right:100px;
+    margin: 30px;
+}
+
 .key{
     position: relative;
     left: 30px;
@@ -46,13 +52,29 @@
 .curve{
     border-radius: 20px;
 }
+.curve6{
+    border-radius: 40px;
+}
 .curve1{
     position: relative;
     left:100px;
 }
 .team{
     border: 2px solid white;
-
+    
+}
+.started{
+    position:relative;
+    right: 170px;
+}
+.main{
+    position: relative;
+    left: 420px;
+    top: 60px;
+}
+.mainsbtn{
+    position: relative;
+    left: 80px;
 }
 .dot{
     position:relative;
@@ -64,4 +86,23 @@
 .team1{
     position: relative;
     right: 30px;
+}
+.wire7{
+    position:relative;
+    right: 90px; 
+}
+.star1{
+    position: relative;
+    left: 100px;
+    margin-top: 70px;
+}
+.shadow1{
+    box-shadow: 5px 5px 5px 5px pink;
+}
+.triangle{
+    position: relative;
+    right: 100px;
+}
+.policy{
+    margin-right: 10px;
 }
