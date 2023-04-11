@@ -106,3 +106,18 @@
 .policy{
     margin-right: 10px;
 }
+
+.back-btn {
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+.back-btn a{
+    text-decoration: none;
+}
+
+.back-btn:hover {
+    transition: 0.9s;
+    color: blue;
+    background-color: aqua;
+}
